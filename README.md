@@ -1,1 +1,1 @@
-# reduce-traffic-course
+# Manning LiveProject Reduce Traffic Course
